@@ -14,12 +14,12 @@ issn: 2640-3498
 id: NeurIPSCDT-2019
 month: 0
 cycles: false
-bibtex_editor: Escalante, Hugo Jair and Hadselll, Raia
+bibtex_editor: Escalante, Hugo Jair and Hadsell, Raia
 editor:
 - given: Hugo Jair
   family: Escalante
 - given: Raia
-  family: Hadselll
+  family: Hadsell
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the NeurIPS 2019 Competition and Demonstration Track
@@ -29,7 +29,7 @@ description: |
 
   Volume Edited by:
     Hugo Jair Escalante
-    Raia Hadselll
+    Raia Hadsell
 
   Series Editors:
     Neil D. Lawrence
